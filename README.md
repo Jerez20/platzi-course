@@ -57,3 +57,5 @@ DOM (Document Object Model) es la forma en que internamente el navegador organiz
 **Métodos:** funciones dentro de un objeto.
 
 **Atributo o propiedad:** variables internas que almacenan valores.
+
+Los **ciclos** son piezas de código que se repiten hasta que se cumple una condición.
