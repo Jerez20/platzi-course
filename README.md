@@ -59,3 +59,7 @@ DOM (Document Object Model) es la forma en que internamente el navegador organiz
 **Atributo o propiedad:** variables internas que almacenan valores.
 
 Los **ciclos** son piezas de código que se repiten hasta que se cumple una condición.
+
+** Eventos ** son funciones que suceden cuando algo ocurre,  sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.
+
+ 
