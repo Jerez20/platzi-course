@@ -31,3 +31,11 @@ En HTMl Los títulos se pueden agregar con la etiquetas h1,h2,h3,h4,h5,h6.
 * Puedes usar la función prompt para recibir datos del usuario.
 
 * Concatenar es unir cadenas de texto a variables.
+
+* El nombre de los archivos deberían seguir las mismas reglas que los nombres de variables
+
+* El código debería ser fácil de leer
+
+* Los bloques de codigo no terminan en ;.
+
+* Para aprender programacion debes de practicar es muy importante.
