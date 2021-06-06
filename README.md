@@ -39,3 +39,21 @@ En HTMl Los títulos se pueden agregar con la etiquetas h1,h2,h3,h4,h5,h6.
 * Los bloques de codigo no terminan en ;.
 
 * Para aprender programacion debes de practicar es muy importante.
+
+**Objetos** estos son como envolturas para código.
+
+**El navegador tiene algunos nativos cómo:**
+
+**Navigator:** El objeto que contiene las funciones del navegador, también te permite acceder también al sistema operativo como el gps, guardar datos en el disco duro, etc.
+
+**Window:** El objeto que maneja cada una de las pestañas.
+
+**Document:** El objeto que contiene todo lo que vemos dentro de nuestra página.
+
+DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol.
+
+**Los objetos contienen**
+
+**Métodos:** funciones dentro de un objeto.
+
+**Atributo o propiedad:** variables internas que almacenan valores.
