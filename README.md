@@ -24,3 +24,10 @@ La etiqueta que te permite escribir CSS dentro de HTML es <style>, se coloca den
 
 En HTMl Los títulos se pueden agregar con la etiquetas h1,h2,h3,h4,h5,h6.
 
+* La consola nos sirve para saber el estado de las variables.
+ 
+* Cuando tienen un valor en comillas("") es un texto.
+
+* Puedes usar la función prompt para recibir datos del usuario.
+
+* Concatenar es unir cadenas de texto a variables.
