@@ -76,4 +76,10 @@ Los **ciclos** son piezas de código que se repiten hasta que se cumple una cond
  
 * Canvas dibuja siempre encima del último objeto.
 
+ **Modulo**
+
+* Para calcular el módulo puedes usar %.
  
+* Los programas dividen los programas complejos en problemas pequeños.
+ 
+* La operación lógica and (y) se escribe en JavaScript con &&.
