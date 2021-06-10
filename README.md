@@ -85,3 +85,9 @@ Los **ciclos** son piezas de código que se repiten hasta que se cumple una cond
 * La operación lógica and (y) se escribe en JavaScript con &&.
 
 * Las clases son la definición de los objetos.
+
+Los programadores dividen problemas grandes en varios pequeños.
+ 
+
+* Prueba frecuentemente que el código escrito funciona
+ 
