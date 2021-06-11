@@ -90,4 +90,20 @@ Los programadores dividen problemas grandes en varios pequeños.
  
 
 * Prueba frecuentemente que el código escrito funciona
+
+Las tecnologías utilizadas en aplicaciones web son:
+
+**Bases de datos**, MySQL es una base de datos relacionales y MongoDB es una base de datos no relacional
+
+**Backend**, existen muchos lenguajes que puedes usar cómo Python, Ruby, JavaScript
+
+**Servidores**, existen tecnologías como NGINX, Apache, Node
+
+**Frontend**, son las tecnologías que corren en el navegador, HTML, CSS y JavaScript
+
+A un grupo de tecnologías se les conoce como Stack
  
+**Arduino:** es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial.
+
+Una tabla de verdad muestra el valor de verdadero de una proposición compuesta, para cada combinación de verdad que se pueda asignar. Esto es la base de la programación y la electrónica.
+
